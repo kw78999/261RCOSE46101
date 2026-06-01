@@ -37,14 +37,6 @@ PQ-SIFT-Bucket:      sign/range metadata filter  ► block fetch ► exact atten
 
 ---
 
-## Key Results
-
-<p align="center">
-  <img src="assets/steady_compute_ratio_vs_full.png" width="900" alt="Steady compute ratio vs full attention">
-</p>
-
-At long context, PQ-SIFT-Bucket keeps a favorable quality/latency region: it avoids recent-window quality collapse and avoids Loki-style dense ranking overhead.
-
 ### Quality sanity check
 
 <p align="center">
